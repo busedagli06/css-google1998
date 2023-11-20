@@ -1,0 +1,44 @@
+.dis-kutu{
+    width: 1210px;
+    height: 65px;
+    padding: auto;
+    margin: 1px;
+    background-color: #EEEEEE;
+    
+}
+.sol-kutu{
+    width: 494px;
+    height: 78px;
+    margin: 1px;
+    
+    background-color: #7EE5DA;
+}
+.orta-kutu{
+    width: 220px;
+    height: 78px;
+    margin: 1px;
+    
+    
+    background-color: #70CCC2;
+}
+.sag-kutu{
+    width: 494px;
+    height: 78px;
+    margin: 1px;
+    background-color: #62B3AA;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.first-link{
+    color: purple;
+}
+.third-link{
+    color: purple;
+}
+.second-link{
+    color: purple;
+}
